@@ -66,6 +66,7 @@ This project demonstrates the ability to:
 - Perform **end-to-end EDA workflow**  
 - Support **strategic decision-making** in pricing, demand, and revenue optimization  
 
+![Slide 1](Bar_CHart.jpg)
 
 ## 🔹 📌 Conclusion
 The analysis highlights key demand drivers and revenue opportunities, enabling AtliQ Grands to adopt data-driven strategies for improving occupancy, pricing efficiency, and overall business performance.
