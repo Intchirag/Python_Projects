@@ -66,8 +66,11 @@ This project demonstrates the ability to:
 - Perform **end-to-end EDA workflow**  
 - Support **strategic decision-making** in pricing, demand, and revenue optimization  
 
+## 🔹 📌 Python File Images
 ![Slide 1](Bar_Chart.jpg)
 ![Slide 1](Pie_Chart.jpg)
+![Slide 1](DI.jpg)
+![Slide 1](DC.jpg)
 
 
 ## 🔹 📌 Conclusion
